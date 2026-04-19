@@ -1,5 +1,4 @@
 # AutoScript
-# AutoScript 🔤
 > A smart spell checker written in C using KMP String Matching and Edit Distance (Dynamic Programming).
 
 ---
